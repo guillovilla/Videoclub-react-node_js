@@ -1,0 +1,17 @@
+.container-accueil {
+    background-image: url(/public/img/Untitled.jpg);
+    background-position: initial;  
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 57vw;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.text-accueil{
+    margin: 25px;
+}

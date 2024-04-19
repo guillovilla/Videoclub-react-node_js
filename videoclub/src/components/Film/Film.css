@@ -1,0 +1,42 @@
+.single-film{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    color: var(--text-color);
+    background-image: url(/public/img/pexels-cottonbro-studio-4722577.jpg);
+    background-size:cover;
+    padding: 30px;
+    height: auto; 
+    text-align:right;
+    align-items: center;
+}
+
+.p-single-film{
+    font-family: var(--secundary_font);
+    font-size: 18px;
+    letter-spacing: 2px;
+    
+}
+
+.etoiles{
+    grid-column: span 2;
+    text-align: center;
+}
+
+@media(max-width: 375px) {
+   
+.single-film{
+      display: flex;
+      flex-direction: column;
+      text-align: left;
+    }
+
+    .p-single-film{
+        
+        font-size: 16px;
+        
+    }
+    form{
+        display: flex;
+      flex-direction: column;
+    }
+}

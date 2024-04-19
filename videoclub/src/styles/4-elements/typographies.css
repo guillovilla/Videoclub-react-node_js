@@ -1,0 +1,34 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+@font-face {
+  font-family: 'Cinema';
+  src: url('../../../public/fonts/cinema_st.ttf') format('opentype');
+  /* Puedes agregar estilos adicionales si es necesario, como font-weight o font-style */
+}
+@font-face {
+  font-family: 'Capitol';
+  src: url('../../../public/fonts/Cinema\ Capitol.otf') format('opentype');
+  /* Puedes agregar estilos adicionales si es necesario, como font-weight o font-style */
+}
+@font-face {
+  font-family: 'NeonLight';
+  src: url('../../../public/fonts/NeonLight-Regular.ttf') format('opentype');
+  /* Puedes agregar estilos adicionales si es necesario, como font-weight o font-style */
+}
+@font-face {
+  font-family: 'Film';
+  src: url('../../../public/fonts/Film\ Premieres.otf') format('opentype');
+  /* Puedes agregar estilos adicionales si es necesario, como font-weight o font-style */
+}
+@font-face {
+  font-family: 'Montserrat';
+  src: url('../../../public/fonts/Montserrat-VariableFont_wght.ttf') format('opentype');
+  /* Puedes agregar estilos adicionales si es necesario, como font-weight o font-style */
+}
+
+:root {
+    --principal_font: 'Press Start 2';
+    --secundary_font: 'Montserrat';
+    --nav_font: 'NeonLight';
+
+  }

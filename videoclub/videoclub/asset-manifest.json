@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/videoclub/static/css/main.8c0b54b0.css",
+    "main.js": "/videoclub/static/js/main.e4ca8245.js",
+    "static/media/pexels-cottonbro-studio-4722577.jpg": "/videoclub/static/media/pexels-cottonbro-studio-4722577.045fa36cd9cf0e0e9c58.jpg",
+    "static/media/Untitled.jpg": "/videoclub/static/media/Untitled.ffec837406684d0a8fed.jpg",
+    "static/media/Cinema Capitol.otf": "/videoclub/static/media/Cinema Capitol.8363ae8d9ef4de4e81c9.otf",
+    "static/media/Film Premieres.otf": "/videoclub/static/media/Film Premieres.0b5eb1b4d901e9a29066.otf",
+    "static/media/Montserrat-VariableFont_wght.ttf": "/videoclub/static/media/Montserrat-VariableFont_wght.7e687123cd4528224ce5.ttf",
+    "static/media/NeonLight-Regular.ttf": "/videoclub/static/media/NeonLight-Regular.aab1991a0e3cabf97e9f.ttf",
+    "static/media/cinema_st.ttf": "/videoclub/static/media/cinema_st.2d53c4741ed42e8af11a.ttf",
+    "index.html": "/videoclub/index.html",
+    "main.8c0b54b0.css.map": "/videoclub/static/css/main.8c0b54b0.css.map",
+    "main.e4ca8245.js.map": "/videoclub/static/js/main.e4ca8245.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8c0b54b0.css",
+    "static/js/main.e4ca8245.js"
+  ]
+}

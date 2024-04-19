@@ -1,0 +1,7 @@
+:root {
+    --space-base: 8px; 
+    --couleur-principale: black;
+    --secondary-color: rgb(162, 20, 27);
+    --tertiary-color: rgb(214, 228, 12);
+    --text-color: white;
+}
